@@ -2,4 +2,4 @@
 
 <h2>1 - Aura Theme</h2>
 <img src="https://github.com/daltonmenezes/assets/blob/master/images/aura-theme/aura-vscode-preview.png?raw=true" alt="">
-<a href="https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme">Link </a>👈
+<h1><a href="https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme">Link </a>👈</h1>
